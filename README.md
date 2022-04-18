@@ -21,4 +21,4 @@
   npm run dev
   ```
 ## License
-[WTFPL](https://www.wtfpl.net/)
+[WTFPL](LICENSE)
